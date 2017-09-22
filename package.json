@@ -1,6 +1,6 @@
 {
     "name": "qwebs-http-to-https",
-    "version": "0.2.18",
+    "version": "0.2.19",
     "description": "Http server for Qwebs",
     "main": "index.js",
     "dependencies": {
